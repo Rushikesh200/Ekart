@@ -1,0 +1,160 @@
+.anchor{
+      text-decoration: none;
+}
+ 
+.social{
+      display:inline;
+}
+
+
+ *{
+box-sizing: border-box;
+}
+#button{
+  	height: 40px;
+  	width: 100px;
+  	text-align: center;
+  	font-size: larger;
+  	border-radius: 10px;
+  	border-color:black;
+  	background-color: white;
+  	cursor:pointer;
+    margin-left: 80px;
+	margin-bottom: 30px;
+  }
+  .row{
+	margin-bottom:10px;
+  }
+  
+.leftcolumn{
+width:40%;
+padding: 2px;
+float:left;
+}
+
+.rightcolumn{
+width:60%;
+padding: 5px;
+float:right;
+}
+.icons{ 
+  margin-left:640px;
+ margin-top: 20px;
+ float: right;
+}
+#i{
+   background-color: white;
+    padding: 3px; 
+    cursor:pointer;
+    border-radius: 5px;
+	float:right;
+}
+.footer a{
+  text-decoration: none;
+  color: black;
+}
+h3{
+	text-align: center;
+	font-size: x-large;
+	padding-left: 2px;
+	margin-top: 50px;
+}
+h2{
+font:Monotype Corsiva;
+margin-top: 20px;
+color: white;
+margin-left:640px;	
+}
+.leftcolumn p{
+font:Monotype Corsiva;
+margin-top: 20px;
+color: white;
+float:left;	
+font-size:x-large;
+margin-left:55px;
+}
+.row::after{
+	content: "";
+	display: block;
+	clear: both;
+}
+.header{
+			padding: 5px 5px;
+		}
+.topnav a{
+	float: right;
+	text-decoration: none;
+    color: darkblue;
+    padding: 13px 14px;
+    text-align: center;
+    display: block;
+}
+a{
+	text-decoration: none;
+}
+ 
+#corner{
+	border-radius: 10px;
+	border-color:white;
+	margin-bottom: 15px;
+	float:center;
+}
+ 
+.card{
+padding-top:1px;
+margin-left: 150px;
+border-radius: 5px;
+width: 1040px;
+height:640px;
+margin-top: 10px;
+background:lightskyblue;
+margin-bottom: 10px;
+}
+.carde{
+	padding: 10px;
+	 margin-top:5px;
+	border-radius: 5px;
+	height:400px;
+	 
+}
+ .footer {
+  background: black;
+  clear: both;
+  width:100%;
+  height: 400px;
+  padding: 20px;
+  margin-top:500px;
+}
+.leftcolumn{
+	width:25%;
+	float:left;
+	text-align:center;
+	margin-top:200px;
+}
+.rightcolumn{
+	width:75%;
+	float:right;
+}
+#no:hover{
+  color:red;
+}
+.footer p{
+  color:white;
+  margin-left:500px;
+  font-size:21px;
+}
+table {
+    margin-left: 37%;
+    color:white;
+    font-size:21px;
+}
+
+table th {
+    width: 200px;
+    font-size:21px;
+    text-align:left;
+}
+.text-center {
+        text-align: center;
+}
+
